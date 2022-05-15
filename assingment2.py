@@ -22,7 +22,7 @@ print("Updated string after replacing 'a case sensitive' with 'object oriented':
 
 #(e) Find index of substring "a" in the given input string.
 print('\n (e)')
-index_substring = input_string.find('a')
+index_substring = input_string.index('a')
 print("The index of substring 'a' in the given input string: \n",index_substring)
 
 #(f) Remove the white spaces from the given input string.
