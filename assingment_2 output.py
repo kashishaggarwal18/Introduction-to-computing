@@ -70,7 +70,7 @@ Enter the third side of a triangle:
 4
 
 The given input lengths can form a triangle or not (Yes or No)?
-Tringle is valid
+Triangle is valid
 enter a number:10
 enter a number:20
 Number of bits needed to be flipped to convert a to b is: 4
